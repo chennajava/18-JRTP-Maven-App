@@ -6,6 +6,7 @@ package in.ashokit;
  */
 public class App 
 {
+	private static final String REST_URL="https://www.equifax.com/getScores";
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
